@@ -60,7 +60,7 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/Fa1sall/VoteChain.git
-cd TrueGoods
+cd votechain
 ```
 
 ### 2. Setup & run backend
